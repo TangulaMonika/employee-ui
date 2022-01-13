@@ -1,0 +1,10 @@
+->login.html
+    ->home.html(Menu)
+    ->addemp.html
+         ->Link back to home.html
+    ->Listemp.html
+    ->searchemp.html
+    ->searchResult.html
+    ->editEmp.html
+    ->view.html
+    
